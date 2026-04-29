@@ -1,0 +1,4 @@
+Best solution for F26 D2:
+Decision variables:
+x1	4.917900e+01
+x2	7.438302e+00

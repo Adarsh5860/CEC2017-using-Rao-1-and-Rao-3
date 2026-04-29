@@ -1,0 +1,4 @@
+Best solution for F6 D2:
+Decision variables:
+x1	7.908939e+01
+x2	-2.457278e+01

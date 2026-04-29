@@ -1,0 +1,4 @@
+Best solution for F23 D2:
+Decision variables:
+x1	5.289816e+01
+x2	-2.537496e+00

@@ -1,0 +1,4 @@
+Best solution for F28 D2:
+Decision variables:
+x1	7.032030e+01
+x2	-5.861760e+01

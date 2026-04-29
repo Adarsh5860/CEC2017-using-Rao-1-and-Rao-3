@@ -1,0 +1,4 @@
+Best solution for F8 D2:
+Decision variables:
+x1	3.216422e+01
+x2	-5.596501e+01

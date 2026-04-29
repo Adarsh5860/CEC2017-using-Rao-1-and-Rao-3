@@ -1,0 +1,4 @@
+Best solution for F10 D2:
+Decision variables:
+x1	-2.187151e+01
+x2	-7.452821e+01

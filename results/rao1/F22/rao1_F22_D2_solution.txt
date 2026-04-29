@@ -1,0 +1,4 @@
+Best solution for F22 D2:
+Decision variables:
+x1	-1.438680e+01
+x2	7.092451e+01

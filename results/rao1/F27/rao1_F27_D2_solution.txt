@@ -1,0 +1,4 @@
+Best solution for F27 D2:
+Decision variables:
+x1	-6.239181e+01
+x2	4.531871e+01

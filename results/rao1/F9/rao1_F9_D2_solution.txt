@@ -1,0 +1,4 @@
+Best solution for F9 D2:
+Decision variables:
+x1	-1.747940e+01
+x2	2.755233e+01

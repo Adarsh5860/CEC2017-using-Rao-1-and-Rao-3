@@ -1,0 +1,4 @@
+Best solution for F24 D2:
+Decision variables:
+x1	6.177016e+01
+x2	-8.240355e+00

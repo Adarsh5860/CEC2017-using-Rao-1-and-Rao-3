@@ -1,0 +1,4 @@
+Best solution for F25 D2:
+Decision variables:
+x1	9.585701e+00
+x2	7.328407e+01

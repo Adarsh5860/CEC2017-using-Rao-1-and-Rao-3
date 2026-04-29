@@ -1,0 +1,4 @@
+Best solution for F21 D2:
+Decision variables:
+x1	6.434688e+01
+x2	1.270735e+01
